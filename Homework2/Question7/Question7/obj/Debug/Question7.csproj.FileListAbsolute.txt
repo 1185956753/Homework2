@@ -1,0 +1,7 @@
+E:\VS2017-workspace\Chaper2\Homework2\Question7\Question7\bin\Debug\Question7.exe.config
+E:\VS2017-workspace\Chaper2\Homework2\Question7\Question7\bin\Debug\Question7.exe
+E:\VS2017-workspace\Chaper2\Homework2\Question7\Question7\bin\Debug\Question7.pdb
+E:\VS2017-workspace\Chaper2\Homework2\Question7\Question7\obj\Debug\Question7.csproj.CoreCompileInputs.cache
+E:\VS2017-workspace\Chaper2\Homework2\Question7\Question7\obj\Debug\Question7.exe
+E:\VS2017-workspace\Chaper2\Homework2\Question7\Question7\obj\Debug\Question7.pdb
+E:\VS2017-workspace\Chaper2\Homework2\Question7\Question7\obj\Debug\Question7.csprojAssemblyReference.cache
